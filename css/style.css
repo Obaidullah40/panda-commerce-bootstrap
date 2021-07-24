@@ -11,3 +11,15 @@
     padding: 9px 25px;
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
 }
+.panda-bg-watch{
+    color: #fff;
+    background-color: #ffa500;
+}
+.panda-bg-bag{
+    color: #fff;
+    background-color: #da70d6;
+}
+.panda-bg-shoes{
+    color: #fff;
+    background-color: #00f;
+}
